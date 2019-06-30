@@ -121,6 +121,15 @@ cd server
 
 node app.js
 
+# Utilisation
+
+Vous pouvez consulter tous les lieux en allant sur la page "Locations". Vous pouvez voir les détails d'un lieu en cliquant dessus.
+Si vous êtes connecté, vous pouvez ajouter un lieu en favoris en allant sur ses détails puis en cliquant sur "Favorite".
+Vous pouvez consulter la liste des résidents de ce lieux, voir les détails et les ajouter en favoris comme pour les lieux.
+Vous pouvez filtrer la liste des lieux en utilisant le champ de recherche.
+Vous pouvez trier la liste de lieux en cliquant sur les différents champs du tableau.
+Vous pouvez consulter vos favoris dans la page "Favorites"
+
 # Effectuer les test
 
 Pour lancer les tests, exécutez simplement:
