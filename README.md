@@ -9,7 +9,7 @@ Cette application utilise le framework front-end **Vue.JS** et un serveur back-e
 
   
 
-Vous pouvez voir les détails de la création de l'application [ici](https://github.com/BenjaminDuchadeuil/dev-test-rickandmorty/details.md).
+Vous pouvez voir les détails de la création de l'application [ici](https://github.com/BenjaminDuchadeuil/dev-test-rickandmorty/blob/master/details.md).
 
   
 
