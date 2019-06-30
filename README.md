@@ -114,7 +114,7 @@ Commencer par build l'application (veillez à définir les variables d'environne
 
 `npm run build`
 
-Un dossier `dist` est alors créé. Il suffit ensuite de lancer le serveur backend qui se chargera de servir l'application sur le port désiré. Ne pas oublier de définir la variable d'environnement `NODE_ENV`.
+Un dossier `dist` est alors créé. Il suffit ensuite de lancer le serveur backend qui se chargera de servir l'application sur le port désiré. Ne pas oublier de définir la variable d'environnement `NODE_ENV` sur "production".
 
   
 ```
